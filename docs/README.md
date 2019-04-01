@@ -12,8 +12,8 @@
 
 ### Video
 
-- [Custom Music Visual Mod - Kodi Aeon MQ6 1.8.0](https://danielbieli.github.io/multimedia/docs/preview/kodi/Custom-Music-Visual-Mod-Kodi-Aeon-MQ6-1.8.0.mp4)
-- [Music Libary - Kodi MQ5](https://danielbieli.github.io/multimedia/docs/preview/kodi/Music-Libary-Kodi-MQ5.mp4)
+- [Custom Music Visual Mod - Kodi Aeon MQ6 1.8.0](https://github.com/danielbieli/multimedia/raw/master/docs/preview/kodi/Custom%20Music%20Visual%20Mod%20-%20Kodi%20Aeon%20MQ6%201.8.0.mp4)
+- [Music Libary - Kodi MQ5](https://github.com/danielbieli/multimedia/raw/master/docs/preview/kodi/Music%20Libary%20-%20Kodi%20MQ5.mp4)
 
 ## PDF
 
