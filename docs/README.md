@@ -8,12 +8,12 @@
 
 ### Image
 
-- [Amber - Kodi Album Ansicht](https://raw.githubusercontent.com/danielbieli/multimedia/master/docs/preview/kodi/Amber%20-%20Kodi%20Album%20Ansicht.png)
+- [Amber - Kodi Album Ansicht](https://raw.githubusercontent.com/danielbieli/multimedia/master/docs/preview/kodi/Amber-Kodi-Album-Ansicht.png)
 
 ### Video
 
-- [Custom Music Visual Mod - Kodi Aeon MQ6 1.8.0](https://danielbieli.github.io/multimedia/docs/preview/kodi/Custom Music Visual Mod - Kodi Aeon MQ6 1.8.0.mp4)
-- [Music Libary - Kodi MQ5](https://danielbieli.github.io/multimedia/docs/preview/kodi/Music Libary - Kodi MQ5.mp4)
+- [Custom Music Visual Mod - Kodi Aeon MQ6 1.8.0](https://danielbieli.github.io/multimedia/docs/preview/kodi/Custom-Music-Visual-Mod-Kodi-Aeon-MQ6-1.8.0.mp4)
+- [Music Libary - Kodi MQ5](https://danielbieli.github.io/multimedia/docs/preview/kodi/Music-Libary-Kodi-MQ5.mp4)
 
 ## PDF
 
