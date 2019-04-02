@@ -2,8 +2,6 @@
 
 Index
 
-<iframe width="100%" height="265" src="https://clyp.it/wcfvo1cm/widget" frameborder="0"></iframe>
-
 ## HTML
 
 - [Ember Media Manager: Film Datenbank HTML Export](https://danielbieli.github.io/multimedia/ember-media-export)
