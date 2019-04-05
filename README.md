@@ -38,6 +38,10 @@ Ein perfektes Medienerlebnis, egal ob Film oder Video, erfordert eine stabile Um
 
 [Everything You Need to Get Started with QNAP and Roon](https://blog.qnap.com/everything-you-need-to-get-started-with-qnap-and-roon/)
 
+- [Roon Knowledge Base](https://kb.roonlabs.com/)
+- [Roon Blog](https://blog.qnap.com/solution/)
+
+
 ### Audio Archivierung & Backup
 
 - **Freetracks** archivieren & streamen: [Clyp.it](https://clyp.it/user/psqp3m5x)
