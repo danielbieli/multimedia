@@ -1,8 +1,8 @@
-# [IHR ALL-IN-ONE MULTIMEDIA CENTER](https://www.qnap.com/solution/home-multimedia/de-de/)
+# [Ihr All-In-One Multimedia Center](https://www.qnap.com/solution/home-multimedia/de-de/)
 
 Tutorials, Checklisten, Links, Vorlagen... Alles Nützliche zum Thema Multimedia.
 
-## [ERSTELLEN SIE IHR LEISTUNGSSTARKES HOME LAB MIT QNAP](https://www.qnap.com/solution/home-lab/de-de/)
+## [Erstellen sie Ihr leistungsstarkes Home Lab mit QNAP](https://www.qnap.com/solution/home-lab/de-de/)
 
 QNAP bietet umfangreiche Funktionen, die Sie zum Aufbau einer leistungsfähigen Home Lab Umgebung benötigen.
 
@@ -34,7 +34,7 @@ Ein perfektes Medienerlebnis, egal ob Film oder Video, erfordert eine stabile Um
 
 ### Musik: [Aufbau des ultimativen Musikservers mit QNAP und Roon](https://www.qnap.com/solution/roon/de-de/)
 
-
+![QNAP & Roon](https://github.com/danielbieli/multimedia/raw/master/docs/preview/qnap-und-roon.jpg)
 
 [Everything You Need to Get Started with QNAP and Roon](https://blog.qnap.com/everything-you-need-to-get-started-with-qnap-and-roon/)
 
